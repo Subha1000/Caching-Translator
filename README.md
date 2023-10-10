@@ -1,2 +1,2 @@
 # Caching-Translator
-Caching Translator which uses the Google Translator API and the MERN technology stack.
+Caching Translator is a website which uses the Google Translator API and the MERN technology stack. The user will be able to search for words in English and recieve their translation in a language of their choice. These words and their translations will be stored in a database created using MongoDB. Users will be able to CRUD words and their translations from the database. React will be used to create the user interface of the website while Node.js and Express.js will be used to code the server side of the web application.
