@@ -3,7 +3,7 @@
 var msg = 'Hello World';
 console.log(msg);
 
-var api = "AIzaSyAOGO11xmC2e38hPzH_-oeq-u_-WSeK3DE";
+var api = "API Key";
 var googleTranslate = require('google-translate')(api);
 
 var text = 'I am using google translator to convert this text to spanish'
