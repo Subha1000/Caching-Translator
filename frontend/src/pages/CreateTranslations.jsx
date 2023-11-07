@@ -4,7 +4,7 @@ import Spinner from '../components/Spinner';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 let fromLang = 'en'; 
-const API_KEY = ["AIzaSyBGevtycVKX2n4pIAQSa2n3VGfER8pjl9g"];
+const API_KEY = ["Insert your API Key"];
 
 const CreateTranslations = () => {
   const [phraseToTranslate, setPhraseToTranslate] = useState('');
